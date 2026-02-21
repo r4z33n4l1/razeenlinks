@@ -1,0 +1,56 @@
+{
+  "profile": {
+    "name": "Razeen Ali",
+    "tagline": "builder of things on the internet"
+  },
+  "sections": [
+    {
+      "id": "projects",
+      "title": "PROJECTS",
+      "color": "yellow",
+      "items": [
+        {
+          "title": "Slate",
+          "url": "https://slatefashion.app",
+          "slug": "slate",
+          "description": "Mobile fashion app",
+          "emoji": "👗"
+        },
+        {
+          "title": "Ritual",
+          "url": "https://ritual.caristudios.com",
+          "slug": "ritual",
+          "description": "Habit tracking app",
+          "emoji": "🔄"
+        }
+      ]
+    },
+    {
+      "id": "socials",
+      "title": "SOCIALS",
+      "color": "pink",
+      "items": [
+        {
+          "title": "GitHub",
+          "url": "https://github.com/r4z33n4l1",
+          "slug": "github",
+          "description": "Code & open source",
+          "emoji": "💻"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/in/razeenali",
+          "slug": "linkedin",
+          "description": "Professional network",
+          "emoji": "💼"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "TOOLS",
+      "color": "blue",
+      "items": []
+    }
+  ]
+}
