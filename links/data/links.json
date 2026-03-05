@@ -50,7 +50,15 @@
       "id": "tools",
       "title": "TOOLS",
       "color": "blue",
-      "items": []
+      "items": [
+        {
+          "title": "Linear Programming Slides",
+          "url": "https://linearprogrammingslides.vercel.app/",
+          "slug": "392",
+          "description": "Linear programming course slides",
+          "emoji": "📊"
+        }
+      ]
     }
   ]
 }
