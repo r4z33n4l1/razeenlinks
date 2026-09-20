@@ -11,7 +11,12 @@
     { "id": "apps", "title": "Apps", "color": "blue", "items": [
       { "title": "julie: cat translator", "url": "https://apps.apple.com/us/app/julie-cat-translator/id6761346408", "slug": "julie", "description": "App Store" },
       { "title": "Nag: constant reminder", "url": "https://apps.apple.com/us/app/nag-constant-reminder/id6760954480", "slug": "nag", "description": "App Store" },
+      { "title": "TaskWall: Your todo wallpaper", "url": "https://apps.apple.com/us/app/taskwall-your-todo-wallpaper/id6760971853", "slug": "taskwall", "description": "App Store" },
       { "title": "Slate: The Modest Fashion Hub", "url": "https://apps.apple.com/us/app/slate-the-modest-fashion-hub/id6752974390", "slug": "slate", "description": "App Store" },
+      { "title": "Business Card Holder", "url": "https://apps.apple.com/us/app/business-card-holder/id6757991003", "slug": "business-card-holder", "description": "App Store" },
+      { "title": "Ritual by CariStudios", "url": "https://apps.apple.com/us/app/ritual-by-caristudios/id6757550661", "slug": "ritual", "description": "App Store" },
+      { "title": "Insta Grid", "url": "https://apps.apple.com/us/app/insta-grid/id6757743717", "slug": "insta-grid", "description": "App Store" },
+      { "title": "Simple Salat Tracker", "url": "https://apps.apple.com/us/app/simple-salat-tracker/id6756157269", "slug": "simple-salat-tracker", "description": "App Store" },
       { "title": "TodoWallpaper", "url": "https://apps.apple.com/us/app/todowallpaper/id6744670787", "slug": "todowallpaper", "description": "App Store" }
     ] },
     { "id": "social", "title": "Social", "color": "pink", "items": [
