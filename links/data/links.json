@@ -3,7 +3,10 @@
   "sections": [
     { "id": "work", "title": "Work", "color": "yellow", "items": [
       { "title": "Personal site", "url": "https://razeenali.com", "slug": "site", "description": "Selected work and notes" },
-      { "title": "Razeen Apps", "url": "https://razeenali.app", "slug": "apps", "description": "Published iPhone and iPad apps" }
+      { "title": "Razeen Apps", "url": "https://razeenali.app", "slug": "apps", "description": "Published iPhone and iPad apps" },
+      { "title": "FileZap", "url": "https://filezap.razeenali.app", "slug": "filezap", "description": "Private browser-based file compression" },
+      { "title": "PDF Chapter Splitter", "url": "https://pdfsplitter.razeenali.app", "slug": "pdfsplitter", "description": "Split and extract PDF chapters" },
+      { "title": "QR Maker", "url": "https://qrmaker.razeenali.app", "slug": "qrmaker", "description": "Custom QR code generation" }
     ] },
     { "id": "apps", "title": "Apps", "color": "blue", "items": [
       { "title": "julie: cat translator", "url": "https://apps.apple.com/us/app/julie-cat-translator/id6761346408", "slug": "julie", "description": "App Store" },
