@@ -1,34 +1,15 @@
 import type { Metadata } from "next";
-import { Space_Grotesk, JetBrains_Mono } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 
-const spaceGrotesk = Space_Grotesk({
-  variable: "--font-space-grotesk",
-  subsets: ["latin"],
-});
-
-const jetbrainsMono = JetBrains_Mono({
-  variable: "--font-jetbrains-mono",
-  subsets: ["latin"],
-});
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Razeen Ali | Links",
-  description: "Builder of things on the internet",
+  metadataBase: new URL("https://razeen.im"),
+  title: "Razeen Ali — Links",
+  description: "Selected work, published apps, and social links for Razeen Ali.",
+  alternates: { canonical: "/" },
+  robots: { index: true, follow: true },
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
-  return (
-    <html lang="en">
-      <body
-        className={`${spaceGrotesk.variable} ${jetbrainsMono.variable}`}
-      >
-        {children}
-      </body>
-    </html>
-  );
-}
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) { return <html lang="en" className={inter.variable} suppressHydrationWarning><body>{children}</body></html>; }

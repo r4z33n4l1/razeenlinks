@@ -1,64 +1,21 @@
 {
-  "profile": {
-    "name": "Razeen Ali",
-    "tagline": "builder of things on the internet"
-  },
+  "profile": { "name": "Razeen Ali", "tagline": "Engineer and product builder." },
   "sections": [
-    {
-      "id": "projects",
-      "title": "PROJECTS",
-      "color": "yellow",
-      "items": [
-        {
-          "title": "Slate",
-          "url": "https://slatefashion.app",
-          "slug": "slate",
-          "description": "Mobile fashion app",
-          "emoji": "👗"
-        },
-        {
-          "title": "Ritual",
-          "url": "https://ritual.caristudios.com",
-          "slug": "ritual",
-          "description": "Habit tracking app",
-          "emoji": "🔄"
-        }
-      ]
-    },
-    {
-      "id": "socials",
-      "title": "SOCIALS",
-      "color": "pink",
-      "items": [
-        {
-          "title": "GitHub",
-          "url": "https://github.com/r4z33n4l1",
-          "slug": "github",
-          "description": "Code & open source",
-          "emoji": "💻"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://linkedin.com/in/razeenali",
-          "slug": "linkedin",
-          "description": "Professional network",
-          "emoji": "💼"
-        }
-      ]
-    },
-    {
-      "id": "tools",
-      "title": "TOOLS",
-      "color": "blue",
-      "items": [
-        {
-          "title": "Linear Programming Slides",
-          "url": "https://linearprogrammingslides.vercel.app/",
-          "slug": "392",
-          "description": "Linear programming course slides",
-          "emoji": "📊"
-        }
-      ]
-    }
+    { "id": "work", "title": "Work", "color": "yellow", "items": [
+      { "title": "Personal site", "url": "https://razeenali.com", "slug": "site", "description": "Selected work and notes" },
+      { "title": "Razeen Apps", "url": "https://razeenali.app", "slug": "apps", "description": "Published iPhone and iPad apps" }
+    ] },
+    { "id": "apps", "title": "Apps", "color": "blue", "items": [
+      { "title": "julie: cat translator", "url": "https://apps.apple.com/us/app/julie-cat-translator/id6761346408", "slug": "julie", "description": "App Store" },
+      { "title": "Nag: constant reminder", "url": "https://apps.apple.com/us/app/nag-constant-reminder/id6760954480", "slug": "nag", "description": "App Store" },
+      { "title": "Slate: The Modest Fashion Hub", "url": "https://apps.apple.com/us/app/slate-the-modest-fashion-hub/id6752974390", "slug": "slate", "description": "App Store" },
+      { "title": "TodoWallpaper", "url": "https://apps.apple.com/us/app/todowallpaper/id6744670787", "slug": "todowallpaper", "description": "App Store" }
+    ] },
+    { "id": "social", "title": "Social", "color": "pink", "items": [
+      { "title": "GitHub", "url": "https://github.com/r4z33n4l1", "slug": "github", "description": "Code and open source" }
+    ] },
+    { "id": "contact", "title": "Contact", "color": "pink", "items": [
+      { "title": "LinkedIn", "url": "https://ca.linkedin.com/in/razeenali", "slug": "linkedin", "description": "Professional profile" }
+    ] }
   ]
 }
