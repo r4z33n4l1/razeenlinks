@@ -1,5 +1,5 @@
 {
-  "profile": { "name": "Razeen Ali", "tagline": "Engineer and product builder." },
+  "profile": { "name": "Razeen Ali", "tagline": "building Harnesses for agents and systems that help you" },
   "sections": [
     { "id": "work", "title": "Work", "color": "yellow", "items": [
       { "title": "Personal site", "url": "https://razeenali.com", "slug": "site", "description": "Selected work and notes" },
