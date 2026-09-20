@@ -1,5 +1,5 @@
 {
-  "profile": { "name": "Razeen Ali", "tagline": "building Harnesses for agents and systems that help you" },
+  "profile": { "name": "Razeen Ali", "tagline": "building harnesses for agents and systems that help you" },
   "sections": [
     { "id": "work", "title": "Work", "color": "yellow", "items": [
       { "title": "Personal site", "url": "https://razeenali.com", "slug": "site", "description": "Selected work and notes" },
@@ -20,10 +20,12 @@
       { "title": "TodoWallpaper", "url": "https://apps.apple.com/us/app/todowallpaper/id6744670787", "slug": "todowallpaper", "description": "App Store" }
     ] },
     { "id": "social", "title": "Social", "color": "pink", "items": [
-      { "title": "GitHub", "url": "https://github.com/r4z33n4l1", "slug": "github", "description": "Code and open source" }
+      { "title": "GitHub", "url": "https://github.com/r4z33n4l1", "slug": "github", "description": "Code and open source" },
+      { "title": "LinkedIn", "url": "https://ca.linkedin.com/in/razeenali", "slug": "linkedin", "description": "Professional profile" },
+      { "title": "X", "url": "https://x.com/razeenali01", "slug": "x", "description": "Updates" }
     ] },
     { "id": "contact", "title": "Contact", "color": "pink", "items": [
-      { "title": "LinkedIn", "url": "https://ca.linkedin.com/in/razeenali", "slug": "linkedin", "description": "Professional profile" }
+      { "title": "Email", "url": "mailto:hello@razeenali.com", "slug": "email", "description": "hello@razeenali.com" }
     ] }
   ]
 }
