@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://razeen.im"),
+  metadataBase: new URL("https://www.razeen.im"),
   title: "Razeen Ali — Links",
   description: "Selected work, published apps, and social links for Razeen Ali.",
   alternates: { canonical: "/" },
